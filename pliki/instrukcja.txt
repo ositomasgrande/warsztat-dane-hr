@@ -1,32 +1,23 @@
 DANE HR Z AI — FIRMA MOST
-15.11.2026, 8:45–15:45. 370 minut pracy i 50 minut przerw.
-
-Wszystkie osoby i zdarzenia są fikcyjne. Nie przesyłaj prawdziwych danych HR do prywatnych czatów.
+Wszystkie dane warsztatowe są fikcyjne. Nie wysyłaj do prywatnego czatu danych rzeczywistych ani poufnych informacji. Pseudonimizowane dane rzeczywiste wymagają środowiska zatwierdzonego przez organizację.
 
 START
-Rozpakuj materialy.zip i otwórz index.html albo warsztat-offline.html. Zachowaj folder pliki obok. Pobierz/otwórz pliki/most/dane-hr.xlsx i slownik-danych.txt. Utwórz kopię 01-audyt.xlsx. Excel może działać na komputerze lub w przeglądarce, alternatywą są Arkusze Google. Czat: ChatGPT albo Claude. Odpowiedzi wpisuj pod zadaniami na stronie, obliczenia wykonuj w arkuszu. Możesz dobrowolnie pobrać notatki do TXT.
+Otwórz wybrany czat AI oraz Excel lub Arkusze Google. Pobierz pliki/most/dane-hr.xlsx i zapisz kopię 01-audyt. Słownik danych jest w zakładce Slownik. Odpowiedzi zapisuj na stronie; obliczenia wykonuj w arkuszu. Jeśli chcesz zachować notatki, pobierz je przyciskiem na stronie. Pliki i dashboard zachowaj osobno.
 
-WSPÓLNE DEFINICJE
-Firma Most, I kwartał 2026 (styczeń–marzec). Absencja to suma godzin chorobowych / suma godzin zaplanowanych tej samej populacji. Obie kolumny są już za faktyczny etat. Nie dziel ponownie przez etat i nie przeliczaj automatycznie dni kalendarzowych na 8 godzin.
-Rekrutacja: udział styczniowych aplikacji zakończonych zatrudnieniem do 31 marca 2026. Jednostką jest aplikacja, nie kandydat. Otwarte sprawy nie oznaczają odrzucenia. Wszystkie definicje i klucze opisuje słownik.
+KOLEJNE ETAPY
+0. Otwórz kopię danych i słownik. Nie poprawiaj jeszcze danych.
+1. Zarząd pyta dział HR o nieobecności. Zapoznaj się z sześcioma pytaniami i odpowiedziami; zapisz cel, okres i sposób pomiaru.
+2. Bez AI sprawdź braki, powtórzenia, sprzeczności, okres, format i wybrane informacje w kartach źródłowych. Zapisz, co jest błędem, podejrzeniem lub pytaniem. W grupie wybierzcie dwa ważne ustalenia i przedstawcie ich uzasadnienie.
+3a. P1: przećwicz pseudonimizację. Jedna osoba otrzymuje jedno nowe ID we wszystkich tabelach. Mapę starych i nowych ID zapisz osobno; usuń stare ID i mapę z kopii do dalszej pracy. Nierozpoznane wpisy pozostaw do wyjaśnienia, nie przypisuj ich przypadkowym osobom. Nie wysyłaj klucza do AI.
+3b. Na osobnej kopii przygotuj tabelę liczebności dział × płeć. Sprawdź małe grupy i ryzyko odtworzenia informacji. Próg pięciu osób nie gwarantuje anonimowości.
+3c. P2: wygeneruj od zera osobne dane syntetyczne i sprawdź liczbę wierszy, identyfikatory, relacje, daty i zakresy. W grupie porównajcie trzy podejścia i ich ograniczenia.
+4. P3: poproś AI o audyt fikcyjnej kopii bez klucza, a następnie porównaj go z własnymi ustaleniami. Sprawdź każdą proponowaną zmianę w źródle. Dla starych ID użyj osobnego klucza tylko we własnym arkuszu. Zatwierdzone poprawki wprowadź do kopii i zapisz dziennik: tabela, ID, pole, było, jest, źródło. Jeśli nie da się ustalić wartości, zapisz pytanie; prowadzący może po omówieniu przekazać czysty wzorzec.
+5. P4: policz godziny chorobowe podzielone przez zaplanowane godziny, dla całej firmy i działów. Sprawdź dwa krótkie przykłady.
+6. P4: wśród aplikacji złożonych w styczniu policz udział tych, które zakończyły się zatrudnieniem do 31 marca. Jednostką jest aplikacja; sprawy otwarte pozostają w mianowniku.
+7. P5: zbuduj prosty dashboard z dwóch sprawdzonych miar, wykresów, okresów i ograniczeń.
+8. Sprawdź liczby w arkuszu niezależnie od AI. W grupie porównajcie jeden wynik; druga osoba odtwarza go ze źródła. Omówcie różnice.
+9. Wybierz własny proces HR, zapisz ogólny schemat bez poufnych informacji i przygotuj syntetyczną próbkę oraz prosty wykres stanu „przed”. Zaplanuj porównanie czasu, uwzględniając kontrolę i poprawki. Dwie próby A/B są dodatkowym wyzwaniem.
+10. Zapisz, co udało się wykonać i co wymaga dalszej pracy. Pobranie odpowiedzi jest dobrowolne.
 
-KROKI
-0. Otwórz kopię pliku i słownik. Nie poprawiaj jeszcze danych.
-1. Wybierz dwie z sześciu kart pytań do właściciela danych. Prowadzący ujawnia wszystkie odpowiedzi. Zapisz konkretne zlecenie.
-2. Bez AI wykonaj kontrolę sześciu wymiarów: kompletność, unikalność, spójność, aktualność, format/zakres i zgodność ze źródłem. Dla każdego podaj dowód i status: błąd/podejrzenie/pytanie.
-3a. P1: zaplanuj i wykonaj pseudonimizację. Nowe ID zachowują powiązania tabel. Mapa jest w osobnym pliku, ID wklejone jako wartości. Zminimalizuj dane.
-3b. Osobno wykonaj anonimizację: ogranicz szczegóły, usuń identyfikatory z wersji do publikacji, agreguj, oceń małe grupy i ryzyko odtworzenia informacji. n>=5 nie gwarantuje anonimowości.
-3c. P2: od zera wygeneruj osobny mały zestaw syntetyczny. Sprawdź klucze, relacje, liczebności, zakresy i daty. Nie dodawaj go do firmy Most.
-4. P3: wróć do kopii pseudonimizowanej Most. Audyt AI najpierw niezależny, potem porównanie z własnym. Każda zatwierdzona zmiana ma dowód i dziennik. Prowadzący rozstrzyga braki źródła po omówieniu. Zachowaj 05-czyste.xlsx.
-5. P4: analiza godzin chorobowych. Policz licznik i mianownik, działy oraz całość. Wykonaj pułapki: dni a godziny oraz średnia procentów a iloraz sum.
-6. P4: transfer do rekrutacji. Policz styczniową kohortę. Wykonaj pułapkę przepływ/kohorta. Dla szybszych: aplikacje/osoby i oferty oczekujące.
-7. P5: dashboard w arkuszu, dwie miary i dwa wykresy z definicjami, okresami i mianownikami. Demo firmowe prowadzący pokazuje wcześniej na swoim środowisku.
-8. Niezależnie od AI przelicz źródło i dwa działy. Sprawdź licznik i mianownik kohorty. Rozbieżność wstrzymuje wynik. Zapisz ograniczenia i trzy obserwacje.
-9. Dostosuj schemat, syntetyczny zbiór i prosty dashboard do własnego procesu. Następnie dwie próby: grupa1 ręcznie A/AI B, grupa2 AI A/ręcznie B. Każda próba 4 min pracy i 2 min kontroli. Zapisz również błędy i nieukończenie. To wynik ćwiczenia, nie dowód oszczędności rocznej.
-10. Sprawdź komplet rezultatów. Eksport notatek jest dobrowolny; dane i dashboard zachowaj osobno.
-
-PLAN DNIA
-8:45 start; 8:55 zlecenie; 9:05 audyt; 9:55 pseudonimizacja; 10:20 anonimizacja; 10:45 przerwa; 10:55 syntetyczne; 11:20 audyt AI; 12:00 przerwa; 12:15 absencja; 12:55 rekrutacja; 13:20 obiad; 13:45 demo firmowe; 14:05 dashboard; 14:40 kontrola; 15:00 własny proces i pomiar; 15:35 zamknięcie; 15:45 koniec.
-
-AWARIA
-Drugi czat to opcja. Możesz ocenić odpowiedz-do-kontroli.txt (to przygotowany przykład dydaktyczny, nie rzeczywisty wynik modelu) i pracować w arkuszu. Po omówieniu prowadzący może przekazać czysty plik. Nie oznaczaj symulacji jako prawdziwej pracy AI. Przy zablokowanym zapisie przeglądarki pobierz odpowiedzi przed zamknięciem strony. Strona niczego nie wysyła na serwer.
+GDY COŚ NIE DZIAŁA
+Przy limicie czatu użyj mniejszej fikcyjnej próbki lub przygotowanej odpowiedzi dydaktycznej i oznacz zakres pracy. Jeśli nie działa tworzenie pliku przez AI, wprowadź sprawdzone zmiany ręcznie. Przy problemach z zapisem przeglądarki pobierz notatki przed zamknięciem strony. Jeśli pokoje grupowe nie działają, prowadzący przeprowadzi omówienie na forum.
