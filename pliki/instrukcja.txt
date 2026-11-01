@@ -6,16 +6,16 @@ Otwórz wybrany czat AI oraz Excel lub Arkusze Google. Pobierz pliki/most/dane-h
 
 KOLEJNE ETAPY
 0. Otwórz kopię danych i słownik. Nie poprawiaj jeszcze danych.
-1. Zarząd pyta dział HR o nieobecności. Zapoznaj się z sześcioma pytaniami i odpowiedziami; zapisz cel, okres i sposób pomiaru.
+1. Zarząd pyta dział HR o nieobecności. Zapisz własne pytania do zarządu, potem zapoznaj się z sześcioma pytaniami i odpowiedziami; zapisz cel, okres i sposób pomiaru.
 2. Bez AI sprawdź braki, powtórzenia, sprzeczności, okres, format i wybrane informacje w kartach źródłowych. Zapisz, co jest błędem, podejrzeniem lub pytaniem. W grupie wybierzcie dwa ważne ustalenia i przedstawcie ich uzasadnienie.
 3a. P1: przećwicz pseudonimizację. Jedna osoba otrzymuje jedno nowe ID we wszystkich tabelach. Mapę starych i nowych ID zapisz osobno; usuń stare ID i mapę z kopii do dalszej pracy. Nierozpoznane wpisy pozostaw do wyjaśnienia, nie przypisuj ich przypadkowym osobom. Nie wysyłaj klucza do AI.
-3b. Na osobnej kopii przygotuj tabelę liczebności dział × płeć. Sprawdź małe grupy i ryzyko odtworzenia informacji. Próg pięciu osób nie gwarantuje anonimowości.
+3b. Na osobnej kopii przygotuj tabelę liczebności dział × wymiar etatu. Sprawdź grupy poniżej pięciu osób i ryzyko odtworzenia informacji. Próg pięciu osób nie gwarantuje anonimowości.
 3c. P2: wygeneruj od zera osobne dane syntetyczne i sprawdź liczbę wierszy, identyfikatory, relacje, daty i zakresy. W grupie porównajcie trzy podejścia i ich ograniczenia.
 4. P3: poproś AI o audyt fikcyjnej kopii bez klucza, a następnie porównaj go z własnymi ustaleniami. Sprawdź każdą proponowaną zmianę w źródle. Dla starych ID użyj osobnego klucza tylko we własnym arkuszu. Zatwierdzone poprawki wprowadź do kopii i zapisz dziennik: tabela, ID, pole, było, jest, źródło. Jeśli nie da się ustalić wartości, zapisz pytanie; prowadzący może po omówieniu przekazać czysty wzorzec.
 5. P4: policz godziny chorobowe podzielone przez zaplanowane godziny, dla całej firmy i działów. Sprawdź dwa krótkie przykłady.
-6. P4: wśród aplikacji złożonych w styczniu policz udział tych, które zakończyły się zatrudnieniem do 31 marca. Jednostką jest aplikacja; sprawy otwarte pozostają w mianowniku.
+6. P4: wśród aplikacji złożonych w styczniu policz udział tych, które zakończyły się zatrudnieniem do 31 marca. Jednostką jest aplikacja; sprawy otwarte pozostają w mianowniku. Zatrudnienie liczysz po dacie zatrudnienia; przy jej braku zapytaj prowadzącego.
 7. P5: zbuduj prosty dashboard z dwóch sprawdzonych miar, wykresów, okresów i ograniczeń.
-8. Sprawdź liczby w arkuszu niezależnie od AI. W grupie porównajcie jeden wynik; druga osoba odtwarza go ze źródła. Omówcie różnice.
+8. Sprawdź liczby w arkuszu niezależnie od AI. W grupie porównajcie jeden wynik; druga osoba odtwarza go z kopii 05-czyste. Omówcie różnice.
 9. Wybierz własny proces HR, zapisz ogólny schemat bez poufnych informacji i przygotuj syntetyczną próbkę oraz prosty wykres stanu „przed”. Zaplanuj porównanie czasu, uwzględniając kontrolę i poprawki. Dwie próby A/B są dodatkowym wyzwaniem.
 10. Zapisz, co udało się wykonać i co wymaga dalszej pracy. Pobranie odpowiedzi jest dobrowolne.
 
