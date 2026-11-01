@@ -14,7 +14,7 @@ wymiar_etatu: część pełnego etatu, np. 0,5 lub 1.
 Czas: jeden wiersz opisuje pracownika w danym miesiącu.
 miesiac: miesiąc, którego dotyczy zapis.
 plan_h: zaplanowany czas pracy w godzinach.
-absencja_h: liczba godzin nieobecności.
+absencja_h: liczba godzin nieobecności chorobowej.
 Zdarzenia: jeden wiersz opisuje zdarzenie nieobecności.
 zdarzenie_id: identyfikator zdarzenia.
 data_od, data_do: początek i koniec zdarzenia.
