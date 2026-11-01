@@ -1,0 +1,13 @@
+﻿pracownik_id;dzial;plan_h;absencja_h
+A01;HR;160;8
+A02;HR;80;8
+A03;HR;160;4
+A04;HR;120;0
+A05;Logistyka;160;8
+A06;Logistyka;80;16
+A07;Logistyka;160;8
+A08;Logistyka;120;4
+A09;Sprzedaz;160;0
+A10;Sprzedaz;80;16
+A11;Sprzedaz;160;0
+A12;Sprzedaz;120;16

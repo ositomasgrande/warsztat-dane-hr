@@ -1,0 +1,3 @@
+PRZYKŁAD DYDAKTYCZNY DO OCENY — NIE JEST ZAPISEM PRAWDZIWEJ ODPOWIEDZI AI
+„W pliku Czas każdy wiersz to pracownik. Braki zastąpiłem zerami, bo to najprostsza metoda. Powtarzające się kandydat_id usunąłem jako duplikaty. Chorobowe policzyłem z dni kalendarzowych × 8. Procent firmy to średnia procentów działów. Datę 03/04/2026 przyjąłem jako 4 marca, aby mieściła się w okresie. Usunąłem wysokie wartości. Dashboard wygląda spójnie, więc wynik jest poprawny.”
+Zadanie: wskaż nieuzasadnione decyzje, brakujące dowody oraz kontrole, które wykonałbyś w arkuszu. Przygotuj poprawione polecenie P3. Nie traktuj tej odpowiedzi jako wyniku do skopiowania.

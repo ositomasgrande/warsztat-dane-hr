@@ -1,0 +1,22 @@
+﻿aplikacja_id;kandydat_id;data_aplikacji;dzial;status;data_decyzji;data_zatrudnienia
+R001;C001;2026-01-01;Logistyka;zatrudniona;2026-01-20;
+R002;C002;2026-01-02;Sprzedaz;zatrudniona;2026-02-10;2026-02-10
+R003;C003;2026-01-03;HR;zatrudniona;2026-03-10;2026-03-10
+R004;C004;2026-01-04;Logistyka;odrzucona;2026-01-14;
+R005;C005;2026-01-05;Sprzedaz;odrzucona;2026-01-15;
+R006;C006;2026-01-06;HR;odrzucona;2026-01-16;
+R007;C007;2026-01-07;Logistyka;odrzucona;2026-01-17;
+R008;C008;2026-01-08;Sprzedaz;otwarta ;;
+R009;C009;2026-01-09;HR;otwarta;;
+R010;C010;2026-01-10;Logistyka;otwarta;;
+R011;C011;2026-02-11;Sprzedaz;zatrudniona;2026-03-20;2026-03-20
+R012;C012;2026-02-12;HR;odrzucona;2026-02-22;
+R013;C013;2026-02-01;Logistyka;odrzucona;2026-02-11;
+R014;C014;2026-02-02;Sprzedaz;otwarta;;
+R015;C015;2026-02-03;HR;otwarta;;
+R016;C016;2026-02-04;Logistyka;otwarta;;
+R017;C001;2026-03-05;Sprzedaz;odrzucona;2026-03-15;
+R018;C002;2026-03-06;HR;zatrudniona;2026-03-26;2026-03-26
+R019;C003;2026-03-07;Logistyka;odrzucona;2026-03-17;
+R020;C004;2026-03-08;Sprzedaz;otwarta;;
+R005;C005;2026-01-05;Sprzedaz;odrzucona;2026-01-15;

@@ -1,0 +1,30 @@
+FIRMA MOST — PODSTAWOWY SŁOWNIK DANYCH
+Zakres: styczeń–marzec 2026. Stan rekrutacji: 31 marca 2026.
+Pracownicy: jeden wiersz opisuje osobę.
+pracownik_id: identyfikator pracownika.
+nr_kadrowy: numer kadrowy zapisany jako tekst.
+imie, nazwisko: imię i nazwisko pracownika.
+pesel: numer identyfikacyjny zapisany jako tekst.
+email: adres e-mail pracownika.
+data_urodzenia: data urodzenia.
+plec: oznaczenie płci w danych.
+dzial: nazwa działu.
+stanowisko: nazwa stanowiska.
+wymiar_etatu: część pełnego etatu, np. 0,5 lub 1.
+Czas: jeden wiersz opisuje pracownika w danym miesiącu.
+miesiac: miesiąc, którego dotyczy zapis.
+plan_h: zaplanowany czas pracy w godzinach.
+absencja_h: liczba godzin nieobecności.
+Zdarzenia: jeden wiersz opisuje zdarzenie nieobecności.
+zdarzenie_id: identyfikator zdarzenia.
+data_od, data_do: początek i koniec zdarzenia.
+dni_kalendarzowe: długość zdarzenia w dniach kalendarzowych.
+rodzaj: rodzaj nieobecności.
+uwagi: dodatkowy opis tekstowy.
+Aplikacje: jeden wiersz opisuje aplikację na stanowisko.
+aplikacja_id: identyfikator aplikacji.
+kandydat_id: identyfikator kandydata.
+data_aplikacji: data złożenia aplikacji.
+status: stan aplikacji.
+data_decyzji: data decyzji w procesie.
+data_zatrudnienia: data zatrudnienia, jeśli jest dostępna.

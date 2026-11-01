@@ -1,0 +1,7 @@
+KARTY ŹRÓDŁOWE — OTWÓRZ PODCZAS AUDYTU, WSZYSTKO FIKCYJNE
+To wybrane potwierdzenia źródłowe, nie pełny klucz. Zweryfikowanie próbki nie dowodzi poprawności całego eksportu.
+Rejestr zdarzeń: Z001, E001, od 2026-01-06 do 2026-01-07, dni kalendarzowe 2, rodzaj chorobowa.
+Rejestr zdarzeń: Z002, E002, od 2026-02-09 do 2026-02-11, dni kalendarzowe 3, rodzaj chorobowa.
+Rejestr zdarzeń: Z003, E003, od 2026-03-09 do 2026-03-12, dni kalendarzowe 4, rodzaj chorobowa.
+Kartoteka kwartalna: E007 należy do HR, a E011 należy do HR. Powtarzający się wpis E007 z innym działem wymaga rozstrzygnięcia, a nie nadania drugiego ID.
+Eksport wygenerowano 1 kwietnia 2026 i miał obejmować styczeń–marzec 2026. Aktualność oceniaj względem zlecenia, nie daty dzisiejszych zajęć.
